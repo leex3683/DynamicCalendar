@@ -2,7 +2,11 @@
 
 ## Description
 
-This webpage is a calendar that color codes past, present and future time slots. The user can enter in comments into time slots, and those comments will be saved in local storage.  
+This webpage is a calendar that color codes past, present and future time slots. The user can enter in comments into time slots, and those comments will be saved in local storage. 
+
+direct link: https://leex3683.github.io/DynamicCalendar
+
+![Example usage](assets/images/05-third-party-apis-homework-demo.gif)
 
 ## Installation
 
