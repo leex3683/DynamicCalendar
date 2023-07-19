@@ -6,7 +6,7 @@ This webpage is a calendar that color codes past, present and future time slots.
 
 direct link: https://leex3683.github.io/DynamicCalendar
 
-![Example usage](assets/images/05-third-party-apis-homework-demo.gif)
+![Screenshot](assets/images/Capture.PNG)
 
 ## Installation
 
